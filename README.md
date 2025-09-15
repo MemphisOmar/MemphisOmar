@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Omar Martinez</h1>
 
 <div style="display: flex; align-items: flex-start;">
-  
+
   <!-- About Me -->
   <div style="flex: 70%; padding-right: 20px;">
     <h2>👨‍💻 About Me</h2>
@@ -21,15 +21,16 @@
       </ul>
     </p>
   </div>
-  
-  <!-- PNG Image -->
+
+  <!-- PNG Image 30% -->
   <div style="flex: 30%;">
     <img src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" 
          alt="Industrial Automation PNG" 
-         style="width: 100%; height: auto;">
+         style="width: 100%; max-width: 30%;">
   </div>
-  
+
 </div>
+
 
 
 ## 🛠️ Skills  

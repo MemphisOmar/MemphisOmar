@@ -4,7 +4,6 @@
 
   <!-- About Me -->
   <div style="flex: 70%; padding-right: 20px;">
-    <h2>👨‍💻 About Me</h2>
     <p>
       I am a <b>Robotics Engineering graduate</b> with strong expertise in 
       <b>industrial automation, embedded systems, and intelligent software solutions</b>.<br>

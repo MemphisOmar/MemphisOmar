@@ -17,11 +17,10 @@
     </p>
   </div>
 
-  <!-- PNG Image 30% -->
-  <div style="flex: 30%;">
+  <div style="flex: 0 0 30%; text-align: right;">
     <img src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" 
          alt="Industrial Automation PNG" 
-         style="width: 100%; max-width: 30%;">
+         style="width: 100%; height: auto;">
   </div>
 
 </div>

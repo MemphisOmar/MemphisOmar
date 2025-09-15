@@ -28,10 +28,10 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 - Real-time control applications and sensor integration  
 
 **Industrial Automation**  
-- PLC: Mitsubishi, Omron, Allen-Bradley  
-- FANUC Robot Programming (RoboGuide & Teaching Pendant)  
-- Ladder Logic & Structured Text  
-- Industrial Control Systems & Cabinet Design  
+![PLC](https://img.shields.io/badge/PLC%20Programming-FF6F00?style=for-the-badge&logo=siemens&logoColor=white)  
+![FANUC](https://img.shields.io/badge/FANUC-FFCC00?style=for-the-badge&logo=robotframework&logoColor=black)  
+![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-0A66C2?style=for-the-badge&logo=logstash&logoColor=white)  
+![Structured Text](https://img.shields.io/badge/Structured%20Text-00599C?style=for-the-badge&logo=codeforces&logoColor=white)  
 
 **Computer Vision & AI**  
 - **OpenCV** development in **C++ and Python** on Raspberry Pi 4  

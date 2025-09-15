@@ -10,7 +10,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 - Applying AI and computer vision concepts to automation and process optimization  
 
 
-  <div style="flex: 0 0 15%; text-align: right;">
+  <div style="flex: 0 0 30%; text-align: right;">
     <img src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" 
          alt="Industrial Automation PNG" 
          style="width: 50%; height: auto;">

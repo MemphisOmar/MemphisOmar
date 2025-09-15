@@ -1,20 +1,36 @@
-# 👋 Hi, I'm Omar Martinez
-<img width="1920" height="796" alt="image" src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" />
+<h1>👋 Hi, I'm Omar Martinez</h1>
 
+<div style="display: flex; align-items: flex-start;">
+  
+  <!-- About Me -->
+  <div style="flex: 70%; padding-right: 20px;">
+    <h2>👨‍💻 About Me</h2>
+    <p>
+      I am a <b>Robotics Engineering graduate</b> with strong expertise in 
+      <b>industrial automation, embedded systems, and intelligent software solutions</b>.<br>
+      My background combines <b>robot programming, PLC systems, embedded systems, and software development</b>, 
+      allowing me to design and implement efficient and innovative solutions for industrial and technological environments.
+    </p>
+    <p>
+      Currently working as a <b>Control Engineer (Industrial Robotics)</b>, I specialize in:
+      <ul>
+        <li>Industrial automation projects (PLC, robotics, control cabinets)</li>
+        <li>Embedded systems & robotics programming (ARM Cortex, AVR, ESP32, Raspberry Pi)</li>
+        <li>Multiplatform software development with cloud integration</li>
+        <li>Applying AI and computer vision concepts to automation and process optimization</li>
+      </ul>
+    </p>
+  </div>
+  
+  <!-- PNG Image -->
+  <div style="flex: 30%;">
+    <img src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" 
+         alt="Industrial Automation PNG" 
+         style="width: 100%; height: auto;">
+  </div>
+  
+</div>
 
----
-
-## 👨‍💻 About Me  
-
-I am a **Robotics Engineering graduate** with strong expertise in **industrial automation, embedded systems, and intelligent software solutions**.  
-My background combines **robot programming, PLC systems, embedded systems, and software development**, allowing me to design and implement efficient and innovative solutions for industrial and technological environments.  
-
-Currently working as a **Control Engineer (Industrial Robotics)**, I specialize in:  
-- Industrial automation projects (PLC, robotics, control cabinets)  
-- Embedded systems & robotics programming (ARM Cortex, AVR, ESP32, Raspberry Pi)  
-- Multiplatform software development with cloud integration  
-- Applying AI and computer vision concepts to automation and process optimization  
----
 
 ## 🛠️ Skills  
 

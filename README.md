@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Omar Martinez
-<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/450b58ef-fffb-4fa9-8669-be6127d0ff93" />
-
+<img width="768" height="462" alt="image" src="https://github.com/user-attachments/assets/cf704e12-80ae-4ad4-aa89-538f2feb8fc4" />
 ---
 ## 👨‍💻 About Me  
 

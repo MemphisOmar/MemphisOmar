@@ -1,8 +1,4 @@
 <h1>👋 Hi, I'm Omar Martinez</h1>
-
-<div style="display: flex; align-items: flex-start;">
-
-  <!-- About Me -->
   <div style="flex: 70%; padding-right: 20px;">
     <p>
       I am a <b>Robotics Engineering graduate</b> with strong expertise in 

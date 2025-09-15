@@ -65,7 +65,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 ## 📸 Project Gallery  
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=Industrial+Automation+Project" alt="Automation Project"/>
+  <img width="607" height="795" alt="image" src="https://github.com/user-attachments/assets/d5094f06-508c-43d9-bc41-d8fc5604674e" />
   <img src="https://via.placeholder.com/400x250.png?text=SCARA+Robot" alt="SCARA Robot"/>
   <img src="https://via.placeholder.com/400x250.png?text=Embedded+Systems" alt="Embedded Systems"/>
   <img src="https://via.placeholder.com/400x250.png?text=Computer+Vision+with+OpenCV" alt="OpenCV Project"/>

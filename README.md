@@ -1,69 +1,76 @@
-# Hi there 👋, I'm Edgar Omar Martinez Vega  
+# 👋 Hi, I'm Edgar Omar Martinez Vega  
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MemphisOmar.repoName) [![GitHub followers](https://img.shields.io/github/followers/MemphisOmar.svg?style=social&label=Follow)](https://github.com/MemphisOmar?tab=followers)  
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
+## 👨‍💻 About Me  
 
-🎓 Robotics Engineering graduate, passionate about **industrial automation, embedded systems, and artificial intelligence**.  
-⚙️ Experienced in **robot programming, PLC systems, and industrial control**.  
-💻 Skilled in **software development across multiple platforms**, always eager to innovate and create solutions.  
+I am a **Robotics Engineering graduate** with strong expertise in **industrial automation, embedded systems, and intelligent software solutions**.  
+My background combines **robot programming, PLC systems, and software development**, allowing me to design and implement efficient and innovative solutions for industrial and technological environments.  
 
-- 🌱 I’m currently exploring advanced applications of **AI in automation**.  
-- 🤝 Open to collaborate on **open-source robotics and automation projects**.  
-- ✔ Ask me about **robot programming, PLCs, or embedded systems**, I’ll be glad to help.  
-
-Outside tech: 📖 I enjoy reading, 🖌️ painting/sketching, 🎵 music, and 🌍 exploring nature.  
+Currently working as a **Control Engineer (Industrial Robotics)**, I specialize in:  
+- Industrial automation projects (PLC, robotics, control cabinets)  
+- Embedded systems & robotics programming  
+- Multiplatform software development with cloud integration  
+- Applying AI concepts to automation and process optimization  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Core Skills  
 
-### Programming Languages  
+**Programming Languages**  
 - Python, Java, C++, JavaScript, SQL, Shell  
 
-### Industrial Automation  
-- PLC (Mitsubishi, Omron, Allen-Bradley)  
-- FANUC Robot Programming (RoboGuide, Teaching Pendant)  
+**Industrial Automation**  
+- PLC: Mitsubishi, Omron, Allen-Bradley  
+- FANUC Robot Programming (RoboGuide & Teaching Pendant)  
 - Ladder Logic & Structured Text  
 - Industrial Control Systems & Cabinet Design  
 
-### Software Development  
+**Software Development**  
 - Embedded Systems  
-- Multiplatform Development (e.g., Flet, Cloud-based DBs)  
+- Multiplatform Development (e.g., Python Flet, Cloud-based DBs)  
 - Software Design & Problem Solving  
 
-### Others  
-- Linux  
-- Git & GitHub  
-- Databases (SQL, Cloud DBs)  
+**Other Tools**  
+- Linux (development & deployment)  
+- Git/GitHub for version control  
+- SQL & Cloud Databases  
+
+---
+
+## 💼 Experience Highlights  
+
+- **Industrial Robotics Engineer** – Implemented robotic cells and automated processes for the automotive industry, improving production capacity.  
+- **PLC Programmer** – Developed control logic in **ladder logic** and **structured text**, integrating Mitsubishi, Omron, and Allen-Bradley PLCs.  
+- **Multiplatform Developer** – Designed and deployed cloud-connected mobile applications for data analysis and user management.  
 
 ---
 
 ## 📂 Featured Projects  
 
-🔹 [SCARA Robot Controller](https://github.com/MemphisOmar/SCARA_Robot)  
-🔹 [Voltium App – Multiplatform Development](https://github.com/MemphisOmar/VoltiumApp)  
-🔹 [PLC & Industrial Automation Examples](https://github.com/MemphisOmar/AutomationProjects)  
+- 🔹 [SCARA Robot Controller CNC DC MOTORS](https://github.com/MemphisOmar/ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS) – Motion control software for a SCARA robotic arm.
+-- 🔹 [SCARA Robot Controller BASE] (https://github.com/MemphisOmar/Scara-arm-with-GUI) - Base Project Robotic Arm Scara
+- 🔹 [Voltium App](https://github.com/MemphisOmar/VoltiumApp) – Multiplatform mobile app with cloud database integration.  
+- 🔹 [Automation Projects](https://github.com/MemphisOmar/AutomationProjects) – PLC, robotics, and industrial automation examples.  
 
 ---
 
 ## 📸 Project Gallery  
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=Project+1" alt="Project 1"/>
-  <img src="https://via.placeholder.com/400x250.png?text=Project+2" alt="Project 2"/>
-  <img src="https://via.placeholder.com/400x250.png?text=Project+3" alt="Project 3"/>
+  <img src="https://via.placeholder.com/400x250.png?text=Industrial+Automation+Project" alt="Automation Project"/>
+  <img src="https://via.placeholder.com/400x250.png?text=SCARA+Robot" alt="SCARA Robot"/>
+  <img src="https://via.placeholder.com/400x250.png?text=Multiplatform+App" alt="Multiplatform App"/>
 </p>  
 
 ---
 
-## 📫 Connect with me  
+## 📫 Contact  
 
 - 🌐 [LinkedIn](https://linkedin.com/in/edgaromarmartinezvega)  
 - 💻 [GitHub](https://github.com/MemphisOmar)  
 - 📧 [Email](mailto:edgaromarmartinezv@gmail.com)  
 
 ---
-⭐ From [MemphisOmar](https://github.com/MemphisOmar)

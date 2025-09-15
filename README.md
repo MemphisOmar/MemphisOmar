@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Omar Martinez
 <img width="768" height="462" alt="image" src="https://github.com/user-attachments/assets/cf704e12-80ae-4ad4-aa89-538f2feb8fc4" />
+
 ---
+
 ## 👨‍💻 About Me  
 
 I am a **Robotics Engineering graduate** with strong expertise in **industrial automation, embedded systems, and intelligent software solutions**.  

@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Edgar Omar Martinez Vega  
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MemphisOmar.repoName) [![GitHub followers](https://img.shields.io/github/followers/MemphisOmar.svg?style=social&label=Follow)](https://github.com/MemphisOmar?tab=followers)  
-
+---
+## 📫 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgaromarmartinezvega) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemphisOmar) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgaromarmartinezv@gmail.com) 
+[![View CV](https://img.shields.io/badge/View%20CV-007ACC?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1l6-gvSQy8eyJxWwPvkpEdtuASvfwkApw/edit?usp=sharing&ouid=111979995282628737042&rtpof=true&sd=true)
 ---
 
 ## 👨‍💻 About Me  
@@ -97,9 +102,3 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
   </table>
 </p>
 
----
-## 📫 Contact  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgaromarmartinezvega) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemphisOmar) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgaromarmartinezv@gmail.com) 
-[![View CV](https://img.shields.io/badge/View%20CV-007ACC?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1l6-gvSQy8eyJxWwPvkpEdtuASvfwkApw/edit?usp=sharing&ouid=111979995282628737042&rtpof=true&sd=true)

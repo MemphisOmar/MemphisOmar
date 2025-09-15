@@ -13,7 +13,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
   <div style="flex: 0 0 30%; text-align: right;">
     <img src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" 
          alt="Industrial Automation PNG" 
-         style="width: 50%; height: auto;">
+         style="width: 70%; height: auto;">
   </div>
 
 

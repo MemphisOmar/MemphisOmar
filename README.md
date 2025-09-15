@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Edgar Omar Martinez Vega  
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MemphisOmar.repoName) [![GitHub followers](https://img.shields.io/github/followers/MemphisOmar.svg?style=social&label=Follow)](https://github.com/MemphisOmar?tab=followers)  
 ---
 ## 📫 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgaromarmartinezvega) 
@@ -8,7 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgaromarmartinezv@gmail.com) 
 [![View CV](https://img.shields.io/badge/View%20CV-007ACC?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1l6-gvSQy8eyJxWwPvkpEdtuASvfwkApw/edit?usp=sharing&ouid=111979995282628737042&rtpof=true&sd=true)
 ---
-
 ## 👨‍💻 About Me  
 
 I am a **Robotics Engineering graduate** with strong expertise in **industrial automation, embedded systems, and intelligent software solutions**.  
@@ -19,7 +16,6 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 - Embedded systems & robotics programming (ARM Cortex, AVR, ESP32, Raspberry Pi)  
 - Multiplatform software development with cloud integration  
 - Applying AI and computer vision concepts to automation and process optimization  
-
 ---
 
 ## 🛠️ Skills  

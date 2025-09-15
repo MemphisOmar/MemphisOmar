@@ -65,7 +65,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
         <br>
         <img width="300" height="400" alt="SCARA ARM" src="https://github.com/user-attachments/assets/d5094f06-508c-43d9-bc41-d8fc5604674e" />
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="40%">
         <a href="https://github.com/MemphisOmar/VoltiumApp">
           <b>Voltium App – Multiplatform Development</b>
         </a>  

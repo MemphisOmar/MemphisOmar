@@ -102,5 +102,4 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgaromarmartinezvega) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemphisOmar) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgaromarmartinezv@gmail.com) 
-[![Download CV](https://img.shields.io/badge/Download%20CV-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/document/d/1l6-gvSQy8eyJxWwPvkpEdtuASvfwkApw/edit?usp=sharing&ouid=111979995282628737042&rtpof=true&sd=true)
----
+[![View CV](https://img.shields.io/badge/View%20CV-007ACC?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1l6-gvSQy8eyJxWwPvkpEdtuASvfwkApw/edit?usp=sharing&ouid=111979995282628737042&rtpof=true&sd=true)

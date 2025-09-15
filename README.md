@@ -55,21 +55,42 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 
 ## 📂 Featured Projects  
 
-- 🔹 [SCARA Robot Controller CNC DC MOTORS](https://github.com/MemphisOmar/ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS) – Motion control software for a SCARA robotic arm.  
-- 🔹 [SCARA Robot Controller BASE](https://github.com/MemphisOmar/Scara-arm-with-GUI) – Base project for a robotic SCARA arm with GUI.  
-- 🔹 [Voltium App](https://github.com/MemphisOmar/VoltiumApp) – Multiplatform mobile app with cloud database integration.  
-- 🔹 [Fanuc I10 ARM DRAW AND SCALE WITH KAREL](https://github.com/MemphisOmar/Karel_i10Fanuc_Draw_and_Scale) – Industrial robotic arm project with FANUC and KAREL.  
-- 🔹 [Motion Capture System with MPU6050, Wi-Fi, and Flet Interface](https://github.com/MemphisOmar/Captura-de-datos-de-movimiento-con-acelerometria) – Motion Capture System with MPU6050.
----
-
-## 📸 Project Gallery  
-
 <p align="center">
-  <img width="607" height="795" alt="image" src="https://github.com/user-attachments/assets/d5094f06-508c-43d9-bc41-d8fc5604674e" />
-  <img width="699" height="1010" alt="image" src="https://github.com/user-attachments/assets/f64f212f-0936-453b-9ce3-ba4b424835c2" />
-  <img width="1920" height="983" alt="image" src="https://github.com/user-attachments/assets/bf1552cf-6666-4246-a25b-dbf1eaa10516" />
-  <img width="1870" height="938" alt="image" src="https://github.com/user-attachments/assets/27f6a9b2-66e7-4797-b82f-97549475c8ea" />
-</p>  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/MemphisOmar/ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS">
+          <b>SCARA Robot Controller CNC DC MOTORS</b>
+        </a>  
+        <br>
+        <img width="300" height="400" alt="SCARA ARM" src="https://github.com/user-attachments/assets/d5094f06-508c-43d9-bc41-d8fc5604674e" />
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/MemphisOmar/VoltiumApp">
+          <b>Voltium App – Multiplatform Development</b>
+        </a>  
+        <br>
+        <img width="350" height="500" alt="Voltium App" src="https://github.com/user-attachments/assets/f64f212f-0936-453b-9ce3-ba4b424835c2" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/MemphisOmar/Captura-de-datos-de-movimiento-con-acelerometria">
+          <b>Motion Capture System (MPU6050, Wi-Fi, Flet)</b>
+        </a>  
+        <br>
+        <img width="480" height="250" alt="MPU6050 Project" src="https://github.com/user-attachments/assets/bf1552cf-6666-4246-a25b-dbf1eaa10516" />
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/MemphisOmar/Karel_i10Fanuc_Draw_and_Scale">
+          <b>Fanuc I10 – ARM Draw and Scale (KAREL)</b>
+        </a>  
+        <br>
+        <img width="480" height="250" alt="FANUC I10" src="https://github.com/user-attachments/assets/27f6a9b2-66e7-4797-b82f-97549475c8ea" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 

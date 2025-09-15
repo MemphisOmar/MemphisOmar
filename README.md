@@ -17,32 +17,37 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 
 ---
 
-## 🛠️ Core Skills  
+## 🛠️ Skills  
 
-**Programming Languages**  
-- Python, MicroPython, C, C++, Java, JavaScript, SQL, Shell  
+### Programming & Embedded  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-**Embedded Systems & Microcontrollers**  
-- Programming with **Atmel, Texas Instruments Tiva C, STM32, ESP32, Arduino, Raspberry Pi Pico & Pi 4**  
-- Strong passion for embedded projects, from prototyping to deployment  
-- Real-time control applications and sensor integration  
-
-**Industrial Automation**  
-![PLC](https://img.shields.io/badge/PLC%20Programming-FF6F00?style=for-the-badge&logo=siemens&logoColor=white)  
-![FANUC](https://img.shields.io/badge/FANUC-FFCC00?style=for-the-badge&logo=robotframework&logoColor=black)  
-![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-0A66C2?style=for-the-badge&logo=logstash&logoColor=white)  
+### Industrial Automation  
+![PLC](https://img.shields.io/badge/PLC%20Programming-FF6F00?style=for-the-badge&logo=siemens&logoColor=white) 
+![FANUC](https://img.shields.io/badge/FANUC-FFCC00?style=for-the-badge&logo=robotframework&logoColor=black) 
+![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-0A66C2?style=for-the-badge&logo=logstash&logoColor=white) 
 ![Structured Text](https://img.shields.io/badge/Structured%20Text-00599C?style=for-the-badge&logo=codeforces&logoColor=white)  
 
-**Computer Vision & AI**  
-- **OpenCV** development in **C++ and Python** on Raspberry Pi 4  
-- Image processing and automation with vision-based systems  
+### Embedded Hardware  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) 
+![Texas Instruments](https://img.shields.io/badge/Tiva%20C-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white) 
+![Atmel](https://img.shields.io/badge/Atmel-003366?style=for-the-badge&logo=microchiptechnology&logoColor=white)  
 
-**Other Tools**  
-- Linux (development & deployment)  
-- Git/GitHub for version control  
-- SQL & Cloud Databases  
+### Tools & OS  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
 
----
 
 ## 💼 Experience Highlights  
 

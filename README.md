@@ -59,16 +59,16 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 - 🔹 [SCARA Robot Controller BASE](https://github.com/MemphisOmar/Scara-arm-with-GUI) – Base project for a robotic SCARA arm with GUI.  
 - 🔹 [Voltium App](https://github.com/MemphisOmar/VoltiumApp) – Multiplatform mobile app with cloud database integration.  
 - 🔹 [Fanuc I10 ARM DRAW AND SCALE WITH KAREL](https://github.com/MemphisOmar/Karel_i10Fanuc_Draw_and_Scale) – Industrial robotic arm project with FANUC and KAREL.  
-
+- 🔹 [Motion Capture System with MPU6050, Wi-Fi, and Flet Interface](https://github.com/MemphisOmar/Captura-de-datos-de-movimiento-con-acelerometria) – Motion Capture System with MPU6050.
 ---
 
 ## 📸 Project Gallery  
 
 <p align="center">
   <img width="607" height="795" alt="image" src="https://github.com/user-attachments/assets/d5094f06-508c-43d9-bc41-d8fc5604674e" />
-  <img src="https://via.placeholder.com/400x250.png?text=SCARA+Robot" alt="SCARA Robot"/>
-  <img src="https://via.placeholder.com/400x250.png?text=Embedded+Systems" alt="Embedded Systems"/>
-  <img src="https://via.placeholder.com/400x250.png?text=Computer+Vision+with+OpenCV" alt="OpenCV Project"/>
+  <img width="699" height="1010" alt="image" src="https://github.com/user-attachments/assets/f64f212f-0936-453b-9ce3-ba4b424835c2" />
+  <img width="1920" height="983" alt="image" src="https://github.com/user-attachments/assets/bf1552cf-6666-4246-a25b-dbf1eaa10516" />
+  <img width="1870" height="938" alt="image" src="https://github.com/user-attachments/assets/27f6a9b2-66e7-4797-b82f-97549475c8ea" />
 </p>  
 
 ---

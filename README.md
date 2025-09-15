@@ -53,7 +53,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 - 🔹 [SCARA Robot Controller CNC DC MOTORS](https://github.com/MemphisOmar/ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS) – Motion control software for a SCARA robotic arm.
 - 🔹 [SCARA Robot Controller BASE](https://github.com/MemphisOmar/Scara-arm-with-GUI) - Base Project Robotic Arm Scara
 - 🔹 [Voltium App](https://github.com/MemphisOmar/VoltiumApp) – Multiplatform mobile app with cloud database integration.  
-- 🔹 [Automation Projects](https://github.com/MemphisOmar/AutomationProjects) – PLC, robotics, and industrial automation examples.  
+- 🔹 [Fanuc I10 ARM DRAW AND SCALE WITH KAREL](https://github.com/MemphisOmar/Karel_i10Fanuc_Draw_and_Scale) – Industrial Robotic Arm.  
 
 ---
 

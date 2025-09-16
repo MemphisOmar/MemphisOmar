@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edgar Omar Martinez Vega  
+# 👋 Hi, I'm Omar Martinez
 
 I am a **Robotics Engineering graduate** with strong expertise in **industrial automation, embedded systems, and intelligent software solutions**.  
 My background combines **robot programming, PLC systems, embedded systems, and software development**, allowing me to design and implement efficient and innovative solutions for industrial and technological environments.  

@@ -94,7 +94,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
         </a>  
         <br>
         <img width="480" height="250" alt="MPU6050 Project" src="https://github.com/user-attachments/assets/bf1552cf-6666-4246-a25b-dbf1eaa10516" />
-        <img width="809" height="613" alt="Image" src="https://github.com/user-attachments/assets/410fa308-4c55-4cf4-b878-56560406d902" />
+        <img width="405" height="306" alt="Image" src="https://github.com/user-attachments/assets/410fa308-4c55-4cf4-b878-56560406d902" />
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/MemphisOmar/Karel_i10Fanuc_Draw_and_Scale">

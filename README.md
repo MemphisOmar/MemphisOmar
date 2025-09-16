@@ -53,6 +53,8 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)  
+![Wokwi](https://img.shields.io/badge/Wokwi-2D9CDB?style=for-the-badge&logo=wokwi&logoColor=white)  
+
 
 ---
 
@@ -92,7 +94,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
         </a>  
         <br>
         <img width="480" height="250" alt="MPU6050 Project" src="https://github.com/user-attachments/assets/bf1552cf-6666-4246-a25b-dbf1eaa10516" />
-        <img width="250" height="320" alt="MPU6050 Vertical" src="https://github.com/user-attachments/assets/ffaff751-4142-4f6c-9beb-f495d654a764" />
+        <img width="809" height="613" alt="Image" src="https://github.com/user-attachments/assets/410fa308-4c55-4cf4-b878-56560406d902" />
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/MemphisOmar/Karel_i10Fanuc_Draw_and_Scale">

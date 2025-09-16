@@ -9,14 +9,17 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 - Multiplatform software development with cloud integration  
 - Applying AI and computer vision concepts to automation and process optimization  
 
+> Additionally, I have experience with **CAD tools such as SolidWorks and Fusion 360** for mechanical design and PCB modeling, and I hold a **SolidWorks Associate certification**.  
 
-  <div style="flex: 0 0 30%; text-align: right;">
-    <img src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" 
-         alt="Industrial Automation PNG" 
-         style="width: 70%; height: auto;">
-  </div>
+---
 
+<div style="flex: 0 0 30%; text-align: right;">
+  <img src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" 
+       alt="Industrial Automation PNG" 
+       style="width: 70%; height: auto;">
+</div>
 
+---
 
 ## 🛠️ Skills  
 
@@ -43,12 +46,15 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 ![Texas Instruments](https://img.shields.io/badge/Tiva%20C-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white) 
 ![Atmel](https://img.shields.io/badge/Atmel-003366?style=for-the-badge&logo=microchiptechnology&logoColor=white)  
 
-### Tools & OS  
+### Tools, CAD & OS  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) 
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)  
 
+---
 
 ## 💼 Experience Highlights  
 
@@ -98,9 +104,11 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
   </table>
 </p>
 
+---
+
 ## 📫 Contact  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgaromarmartinezvega) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemphisOmar) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgaromarmartinezv@gmail.com) 
 [![View CV](https://img.shields.io/badge/View%20CV-007ACC?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1l6-gvSQy8eyJxWwPvkpEdtuASvfwkApw/edit?usp=sharing&ouid=111979995282628737042&rtpof=true&sd=true)
-

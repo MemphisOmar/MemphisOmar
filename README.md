@@ -68,46 +68,58 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 ---
 
 ## 📂 Featured Projects  
-
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <a href="https://github.com/MemphisOmar/ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS">
           <b>SCARA Robot Controller CNC DC MOTORS</b>
         </a>  
         <br>
         <img width="300" height="400" alt="SCARA ARM" src="https://github.com/user-attachments/assets/d5094f06-508c-43d9-bc41-d8fc5604674e" />
       </td>
-      <td align="center" width="60%">
+      <td align="center" width="33%">
         <a href="https://github.com/MemphisOmar/VoltiumApp">
           <b>Voltium App – Multiplatform Development</b>
         </a>  
         <br>
         <img width="350" height="500" alt="Voltium App" src="https://github.com/user-attachments/assets/f64f212f-0936-453b-9ce3-ba4b424835c2" />
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <a href="https://github.com/MemphisOmar/Captura-de-datos-de-movimiento-con-acelerometria">
           <b>Motion Capture System (MPU6050, Wi-Fi, Flet)</b>
         </a>  
         <br>
         <img width="480" height="250" alt="MPU6050 Project" src="https://github.com/user-attachments/assets/bf1552cf-6666-4246-a25b-dbf1eaa10516" />
+        <br>
         <img width="405" height="306" alt="Image" src="https://github.com/user-attachments/assets/410fa308-4c55-4cf4-b878-56560406d902" />
       </td>
-      <td align="center" width="50%">
+    </tr>
+    <tr>
+      <td align="center" width="33%">
         <a href="https://github.com/MemphisOmar/Karel_i10Fanuc_Draw_and_Scale">
           <b>Fanuc I10 – ARM Draw and Scale (KAREL)</b>
         </a>  
         <br>
         <img width="480" height="250" alt="FANUC I10" src="https://github.com/user-attachments/assets/27f6a9b2-66e7-4797-b82f-97549475c8ea" />
       </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/MemphisOmar/Scara-arm-with-GUI">
+          <b>SCARA Robotic Arm with Graphical Interface </b>
+        </a>  
+        <br>
+        <img width="935" height="911" alt="image" src="https://github.com/user-attachments/assets/1084d34a-f5f6-418d-b09a-752c802c7a3d" />
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/MemphisOmar/SumoBot_MicroPython_Esp32C3">
+          <b>MiniSumoBot_FuzzyLogic </b>
+        </a>  
+        <br>
+        <img width="1600" height="1252" alt="image" src="https://github.com/user-attachments/assets/a7b3075c-c99b-4154-a470-75752381a59f" />
+      </td>
     </tr>
   </table>
 </p>
-
-
 ---
 
 ## 📫 Contact  

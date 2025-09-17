@@ -112,7 +112,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/MemphisOmar/SumoBot_MicroPython_Esp32C3">
-          <b>MiniSumoBot_FuzzyLogic </b>
+          <b>MiniSumoBot FuzzyLogic(ESP32_C3_SM) </b>
         </a>  
         <br>
         <img width="1600" height="1252" alt="image" src="https://github.com/user-attachments/assets/a7b3075c-c99b-4154-a470-75752381a59f" />

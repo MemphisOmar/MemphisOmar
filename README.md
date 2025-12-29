@@ -83,7 +83,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
           <b>Screen Match (Spring Boot)</b>
         </a>  
         <br>
-        <img width="350" height="500" alt="Screen Match" src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" /> 
+        <img width="1893" height="935" alt="image" src="https://github.com/user-attachments/assets/ad155390-8a15-4a77-a7ab-c60c52403ccd" />
         </td>
       <td align="center" width="33%">
         <a href="https://github.com/MemphisOmar/ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS">

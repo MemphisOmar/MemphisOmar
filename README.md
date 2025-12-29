@@ -63,7 +63,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
 - **Industrial Robotics Engineer** – Implemented robotic cells and automated processes for the automotive industry, improving production capacity.  
 - **PLC Programmer** – Developed control logic in **ladder logic** and **structured text**, integrating Mitsubishi, Omron, and Allen-Bradley PLCs.  
 - **Embedded Systems Developer** – Designed embedded applications for microcontrollers (STM32, ESP32, Raspberry Pi, Arduino) applied to robotics and automation.  
-- **Multiplatform Developer** – Designed and deployed cloud-connected mobile applications for data analysis and user management.  
+- **Multiplatform Developer** – Designed and deployed cloud-connected applications (Flutter, Spring Boot) for data analysis and process management.  
 
 ---
 
@@ -72,54 +72,181 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://github.com/MemphisOmar/ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS">
-          <b>SCARA Robot Controller CNC DC MOTORS</b>
-        </a>  
-        <br>
-        <img width="300" height="400" alt="SCARA ARM" src="https://github.com/user-attachments/assets/d5094f06-508c-43d9-bc41-d8fc5604674e" />
-      </td>
-      <td align="center" width="33%">
         <a href="https://memphisomar.github.io/VOLTIUM_2/">
-          <b>Voltium App – Multiplatform Development</b>
+          <b>Voltium App (Flutter)</b>
         </a>  
         <br>
         <img width="350" height="500" alt="Voltium App" src="https://github.com/user-attachments/assets/f64f212f-0936-453b-9ce3-ba4b424835c2" />
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/MemphisOmar/Captura-de-datos-de-movimiento-con-acelerometria">
-          <b>Motion Capture System (MPU6050, Wi-Fi, Flet)</b>
+        <a href="https://github.com/MemphisOmar/ScreenMatch">
+          <b>Screen Match (Spring Boot)</b>
         </a>  
         <br>
-        <img width="480" height="250" alt="MPU6050 Project" src="https://github.com/user-attachments/assets/bf1552cf-6666-4246-a25b-dbf1eaa10516" />
+        <img width="350" height="500" alt="Screen Match" src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" /> 
+        </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/MemphisOmar/ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS">
+          <b>SCARA Robot Controller CNC</b>
+        </a>  
         <br>
-        <img width="405" height="306" alt="Image" src="https://github.com/user-attachments/assets/410fa308-4c55-4cf4-b878-56560406d902" />
+        <img width="300" height="400" alt="SCARA ARM" src="https://github.com/user-attachments/assets/d5094f06-508c-43d9-bc41-d8fc5604674e" />
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
+        <a href="https://github.com/MemphisOmar/Captura-de-datos-de-movimiento-con-acelerometria">
+          <b>Motion Capture (MPU6050, Wi-Fi)</b>
+        </a>  
+        <br>
+        <img width="405" height="306" alt="MPU6050 Project" src="https://github.com/user-attachments/assets/410fa308-4c55-4cf4-b878-56560406d902" />
+      </td>
+      <td align="center" width="33%">
         <a href="https://github.com/MemphisOmar/Karel_i10Fanuc_Draw_and_Scale">
-          <b>Fanuc I10 – ARM Draw and Scale (KAREL)</b>
+          <b>Fanuc I10 – KAREL Programming</b>
         </a>  
         <br>
         <img width="480" height="250" alt="FANUC I10" src="https://github.com/user-attachments/assets/27f6a9b2-66e7-4797-b82f-97549475c8ea" />
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/MemphisOmar/Scara-arm-with-GUI">
-          <b>SCARA Robotic Arm with Graphical Interface </b>
+          <b>SCARA Arm with GUI</b>
         </a>  
         <br>
         <img width="935" height="911" alt="image" src="https://github.com/user-attachments/assets/1084d34a-f5f6-418d-b09a-752c802c7a3d" />
       </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 📫 Contact  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgaromarmartinezvega) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemphisOmar) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgaromarmartinezv@gmail.com) 
+[![View CV](https://img.shields.io/badge/View%20CV-007ACC?style=for-the-badge&logo=google-drive&logoColor=white)](# 👋 Hi, I'm Omar Martinez
+
+I am a **Robotics Engineering graduate** with strong expertise in **industrial automation, embedded systems, and intelligent software solutions**.  
+My background combines **robot programming, PLC systems, embedded systems, and software development**, allowing me to design and implement efficient and innovative solutions for industrial and technological environments.  
+
+Currently working as a **Control Engineer (Industrial Robotics)**, I specialize in:  
+- Industrial automation projects (PLC, robotics, control cabinets)  
+- Embedded systems & robotics programming (ARM Cortex, AVR, ESP32, Raspberry Pi)  
+- Multiplatform software development with cloud integration  
+- Applying AI and computer vision concepts to automation and process optimization  
+
+> Additionally, I have experience with **CAD tools such as SolidWorks and Fusion 360** for mechanical design and PCB modeling, and I hold a **SolidWorks Associate certification**.  
+
+---
+
+<div style="flex: 0 0 30%; text-align: right;">
+  <img src="https://github.com/user-attachments/assets/effffeba-3396-43a3-a608-c1080ec6886b" 
+       alt="Industrial Automation PNG" 
+       style="width: 70%; height: auto;">
+</div>
+
+---
+
+## 🛠️ Skills  
+
+### Programming & Embedded  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### Industrial Automation  
+![PLC](https://img.shields.io/badge/PLC%20Programming-FF6F00?style=for-the-badge&logo=siemens&logoColor=white) 
+![FANUC](https://img.shields.io/badge/FANUC-FFCC00?style=for-the-badge&logo=robotframework&logoColor=black) 
+![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-0A66C2?style=for-the-badge&logo=logstash&logoColor=white) 
+![Structured Text](https://img.shields.io/badge/Structured%20Text-00599C?style=for-the-badge&logo=codeforces&logoColor=white)  
+
+### Embedded Hardware  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) 
+![Texas Instruments](https://img.shields.io/badge/Tiva%20C-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white) 
+![Atmel](https://img.shields.io/badge/Atmel-003366?style=for-the-badge&logo=microchiptechnology&logoColor=white)  
+
+### Tools, CAD & OS  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) 
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)  
+![Wokwi](https://img.shields.io/badge/Wokwi-2D9CDB?style=for-the-badge&logo=wokwi&logoColor=white)  
+
+
+---
+
+## 💼 Experience Highlights  
+
+- **Industrial Robotics Engineer** – Implemented robotic cells and automated processes for the automotive industry, improving production capacity.  
+- **PLC Programmer** – Developed control logic in **ladder logic** and **structured text**, integrating Mitsubishi, Omron, and Allen-Bradley PLCs.  
+- **Embedded Systems Developer** – Designed embedded applications for microcontrollers (STM32, ESP32, Raspberry Pi, Arduino) applied to robotics and automation.  
+- **Multiplatform Developer** – Designed and deployed cloud-connected applications (Flutter, Spring Boot) for data analysis and process management.  
+
+---
+
+## 📂 Featured Projects  
+<p align="center">
+  <table>
+    <tr>
       <td align="center" width="33%">
-        <a href="https://github.com/MemphisOmar/SumoBot_MicroPython_Esp32C3">
-          <b>MiniSumoBot FuzzyLogic(ESP32_C3_SM) </b>
+        <a href="https://memphisomar.github.io/VOLTIUM_2/">
+          <b>Voltium App (Flutter)</b>
         </a>  
         <br>
-        <img width="1600" height="1252" alt="image" src="https://github.com/user-attachments/assets/a7b3075c-c99b-4154-a470-75752381a59f" />
+        <img width="350" height="500" alt="Voltium App" src="https://github.com/user-attachments/assets/f64f212f-0936-453b-9ce3-ba4b424835c2" />
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/MemphisOmar/ScreenMatch">
+          <b>Screen Match (Spring Boot)</b>
+        </a>  
+        <br>
+        <img width="350" height="500" alt="Screen Match" src="https://github.com/user-attachments/assets/2fac362d-e34a-4c3a-b0a1-7cfa8ff526d1" /> 
+        </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/MemphisOmar/ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS">
+          <b>SCARA Robot Controller CNC</b>
+        </a>  
+        <br>
+        <img width="300" height="400" alt="SCARA ARM" src="https://github.com/user-attachments/assets/d5094f06-508c-43d9-bc41-d8fc5604674e" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/MemphisOmar/Captura-de-datos-de-movimiento-con-acelerometria">
+          <b>Motion Capture (MPU6050, Wi-Fi)</b>
+        </a>  
+        <br>
+        <img width="405" height="306" alt="MPU6050 Project" src="https://github.com/user-attachments/assets/410fa308-4c55-4cf4-b878-56560406d902" />
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/MemphisOmar/Karel_i10Fanuc_Draw_and_Scale">
+          <b>Fanuc I10 – KAREL Programming</b>
+        </a>  
+        <br>
+        <img width="480" height="250" alt="FANUC I10" src="https://github.com/user-attachments/assets/27f6a9b2-66e7-4797-b82f-97549475c8ea" />
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/MemphisOmar/Scara-arm-with-GUI">
+          <b>SCARA Arm with GUI</b>
+        </a>  
+        <br>
+        <img width="935" height="911" alt="image" src="https://github.com/user-attachments/assets/1084d34a-f5f6-418d-b09a-752c802c7a3d" />
       </td>
     </tr>
   </table>
 </p>
+
 ---
 
 ## 📫 Contact  

@@ -99,7 +99,17 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
         <br>Java & API
         <br> <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ef4c8273-b5fa-4422-b67f-144612020d3d" />
       </td>
+
+<td align="center" width="33%">
+        <a
+          href="https://github.com/MemphisOmar/ForoHubChallenge/">
+          <b>ForoHubChallenge</b>
+        </a>  
+        <br>SpringBoot API REST
+        <br> <img width="440" height="806" alt="image" src="https://github.com/user-attachments/assets/e905edfa-c86b-48a3-b09c-03006ed036ad" />
+      </td>
     </tr>
+    
   </table>
 </p>
 

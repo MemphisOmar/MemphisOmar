@@ -89,7 +89,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
           <b>VoltMed(Gestion Medica)</b>
         </a>  
         <br>SpringBoot3, FullStack
-        <br> <img width="1913" height="945" alt="image" src="https://github.com/user-attachments/assets/59275da6-7106-440e-9484-ee7e2470a4b7" />
+        <br> <img width="534" height="723" alt="image" src="https://github.com/user-attachments/assets/41dfbbb3-33b9-424c-b7dd-1b3d0b088a46" />
       </td>
     </tr>
       <td align="center" width="33%">
@@ -97,7 +97,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
           <b>GutendexAPI SpringBoot</b>
         </a>  
         <br>Java & API
-        <br> <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ef4c8273-b5fa-4422-b67f-144612020d3d" />
+        <br> <img width="471" height="863" alt="image" src="https://github.com/user-attachments/assets/7e135bd6-f20f-4ffc-a775-4eadae083ab7" />
       </td>
 
 <td align="center" width="33%">

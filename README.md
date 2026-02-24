@@ -82,7 +82,7 @@ Currently working as a **Control Engineer (Industrial Robotics)**, I specialize 
           <b>Screen Match</b>
         </a>  
         <br>Spring Boot
-        <br><img width="428" height="865" alt="image" src="https://github.com/user-attachments/assets/12445832-8973-4b3a-9fa7-d6c45cdb775a" />
+        <br><img width="433" height="854" alt="image" src="https://github.com/user-attachments/assets/a4f48712-099a-4a91-9b6d-55f8e10576a6" />
       </td>
         <td align="center" width="33%">
         <a href="https://github.com/MemphisOmar/VoltMedApi">
